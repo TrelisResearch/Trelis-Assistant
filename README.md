@@ -1,6 +1,8 @@
 # Trelis-Assistant
 A Coding Assistant for Jupyter Lab
 
+Check out the video [here](https://www.youtube.com/watch?v=ovNHRJWxQvQ&lc=UgxlPtsv_kKwrCORRkZ4AaABAg).
+
 ## Getting Started
 Trelis Assistant supports Jupyter Lab 4 and above, simply:
 1. `pip install trelis` within jupyter lab.
