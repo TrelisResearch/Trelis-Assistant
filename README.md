@@ -3,9 +3,11 @@ A Coding Assistant for Jupyter Labs
 
 ## Getting Started
 Trelis Assistant supports Jupyter Lab 4 and above, simply:
+1. `pip install jupyterlab`
+1. Run `jupyter lab` and Jupyter Lab will open in your browser
 1. `pip install trelis`
-2. Refresh the page and click on the "Trelis" button in the right toolbar.
-3. Follow the link to get an API key.
+1. Refresh the page and click on the "Trelis" button in the right toolbar.
+1. Follow the link to get an API key.
 
 **Troubleshooting OR running in a remote/hosted environment:**
 - You'll need to have installed yarn and node.
