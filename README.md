@@ -70,6 +70,9 @@ check_node_yarn()
 - **How do I get support?**
   Create an issue in this GitHub repo.
 
+- **What are the Terms of Service?**
+  Read them [here](https://trelis.com/terms-of-service/).
+
 - Is the code for Trelis Assistant available?
   Trelis Assistant uses a proprietary code base and license.
 
