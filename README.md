@@ -67,6 +67,9 @@ check_node_yarn()
 ```
 ## FAQ
 
+- **How do I get support?**
+  Create an issue in this GitHub repo.
+
 - **What language models do you use?**  
   Trelis Assistant uses Google Gemini models.
 
