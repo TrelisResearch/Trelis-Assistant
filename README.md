@@ -1,5 +1,5 @@
 # Trelis-Assistant
-A Coding Assistant for Jupyter Labs
+A Coding Assistant for Jupyter Lab
 
 ## Getting Started
 Trelis Assistant supports Jupyter Lab 4 and above, simply:
