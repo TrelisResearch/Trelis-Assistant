@@ -75,7 +75,7 @@ check_node_yarn()
 - **What are the Terms of Service?**
   Read them [here](https://trelis.com/terms-of-service/).
 
-- Is the code for Trelis Assistant available?
+- **Is the code for Trelis Assistant available for use?**
   Trelis Assistant uses a proprietary code base and license.
 
 - **What language models do you use?**  
