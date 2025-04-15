@@ -1,6 +1,9 @@
 # Trelis-Assistant
 A Coding Assistant for Jupyter Lab
 
+>[!IMPORTANT]
+>This service is no longer running. For inquiries submit a request for consulting support on Trelis.com
+
 Check out the video [here](https://www.youtube.com/watch?v=ovNHRJWxQvQ&lc=UgxlPtsv_kKwrCORRkZ4AaABAg).
 
 ## Getting Started
